@@ -1,0 +1,8 @@
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\bin\Debug\Carreras.exe.config
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\bin\Debug\Carreras.exe
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\bin\Debug\Carreras.pdb
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\obj\Debug\Carreras.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\obj\Debug\Carreras.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\obj\Debug\Carreras.exe
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\obj\Debug\Carreras.pdb
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Carreras\obj\Debug\Carreras.exe.config
