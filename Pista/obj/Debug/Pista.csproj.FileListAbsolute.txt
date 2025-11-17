@@ -1,0 +1,8 @@
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\bin\Debug\Pista.exe.config
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\bin\Debug\Pista.exe
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\bin\Debug\Pista.pdb
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\obj\Debug\Pista.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\obj\Debug\Pista.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\obj\Debug\Pista.exe
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\obj\Debug\Pista.pdb
+C:\Users\marco\source\repos\PSP_Practica_1EV_marcosPalomoMendez\Pista\obj\Debug\Pista.exe.config
