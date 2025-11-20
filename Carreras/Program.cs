@@ -41,8 +41,9 @@ namespace Carreras
                     tiempos[canica] = int.Parse(salidas[canica]);
                     totales[canica] += tiempos[canica];
                 }
+
                 var ranking = tiempos.Select((tiempo, indice) => new { Canica = indice, Tiempo = tiempo, Pista = pista })
-                                .OrderBy(x => x.Tiempo) // menor tiempo primero
+                                .OrderBy(x => x.Tiempo)
                                 .ToList(); 
 
 
@@ -54,16 +55,6 @@ namespace Carreras
                 }
                 
             }
-            /*
-            var rankingFinal = totales.Select((tiempo, indice) => new { Canica = indice, Tiempo = tiempo})
-                                .OrderBy(x => x.Tiempo) // menor tiempo primero
-                                .ToList();
-            for (int i = 0; i < rankingFinal.Count; i++)
-            {
-                Console.WriteLine($"Posición {i + 1} --> Canica {rankingFinal[i].Canica} con tiempo {rankingFinal[i].Tiempo}");
-            }
-            Console.WriteLine($"[Resultado final] --> ");
-            */
         }
     }
 }
